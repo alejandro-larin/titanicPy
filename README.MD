@@ -9,6 +9,8 @@ This is a project created in the Python language, its purpose is to use the func
 
 ## Use
 
+install the dependences:
+
 `pip i deep_translator, pyperclip`
 
 To use it, it is necessary to change the desired content in the `html_content` variable located in the `main.py` file.
