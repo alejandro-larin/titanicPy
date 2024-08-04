@@ -5,5 +5,5 @@ def copy_to_clipboard(text):
     pyperclip.copy(text)
     system('cls')
     print('Text copy to Clipboard')
-    sleep(1)
+    sleep(1.5)
 
